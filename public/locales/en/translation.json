@@ -1,0 +1,20 @@
+{
+  "title": "Front-End Developer | Video Game Developer | Multimedia Teacher",
+  "menu": {
+      "resume": "Resume",
+      "resumeTooltip": "Download my resume",
+      "linkedInTooltip": "Contact me on LinkedIn",
+      "email": "Email",
+      "emailTooltip": "Or send me an email"
+  },
+  "services": {
+    "web": "Front-End development",
+    "game": "Game development",
+    "teach": "Multimedia teaching"
+  },
+  "description": {
+    "part1": "About me",
+    "part2": "I’m a Front-End Developer, Game Designer, and Teacher who founded Camp JV, a successful multimedia summer camp. With a Computation Arts BFA from Concordia University and 7 years of experience in the fields of gaming, web design, and marketing, I’m always looking for new challenges and opportunities."
+  },
+  "footer": "crafted with React.js by"
+}

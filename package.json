@@ -1,0 +1,29 @@
+{
+  "name": "martin-desrosiers",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "classnames": "^2.2.6",
+    "clsx": "^1.1.0",
+    "history": "4.9.0",
+    "i18next": "^19.4.5",
+    "i18next-browser-languagedetector": "^4.2.0",
+    "i18next-http-backend": "^1.0.12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.5.0",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "0.9.x",
+    "react-swipeable-views": "^0.13.9",
+    "typeface-roboto": "0.0.75"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

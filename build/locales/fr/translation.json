@@ -1,0 +1,20 @@
+{
+  "title": "Développeur Front-End | Développeur de jeux vidéo | Professeur de multimédia",
+  "menu": {
+      "resume": "CV",
+      "resumeTooltip": "Télécharger mon CV",
+      "linkedInTooltip": "Me contacter sur LinkedIn",
+      "email": "Courriel",
+      "emailTooltip": "Ou m'envoyer un courriel"
+  },
+  "services": {
+    "web": "Développement Front-End",
+    "game": "Développement de jeux vidéo",
+    "teach": "Enseignement de multimedia"
+  },
+  "description": {
+    "part1": "À propos de moi",
+    "part2": "Je suis un développeur web Front-End, un concepteur de jeux vidéo, et un enseignant qui a fondé Camp JV, un camp de jour spécialisé en multimédia. Avec un BAC en Computation Arts et 7 ans d'expérience, je suis toujours à la recherche de nouvelles opportunités. "
+  },
+  "footer": "conçu avec React.js par"
+}
