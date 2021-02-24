@@ -30,4 +30,6 @@ brew install firebase-cli
 
 2 - Launch the command firebase login
 
-3 - Launch the command firebase deploy
+3 - Do changes, then launch the command npm run build
+
+4 - Launch the command firebase deploy
