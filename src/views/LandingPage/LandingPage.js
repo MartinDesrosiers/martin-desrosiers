@@ -153,6 +153,13 @@ export default function LandingPage(props) {
                             className={navImageClasses}
                           />
                         </a>
+                        <a href="https://katyduperenotaire.com/">
+                          <img
+                            alt="Katy"
+                            src={web7}
+                            className={navImageClasses}
+                          />
+                        </a>
                       </GridItem>
                       <GridItem xs={12} sm={12} md={6}>
                         <a href="https://www.onmobile.com/">
@@ -180,13 +187,6 @@ export default function LandingPage(props) {
                           <img
                             alt="AFP"
                             src={afp}
-                            className={navImageClasses}
-                          />
-                        </a>
-                        <a href="https://katyduperenotaire.com/">
-                          <img
-                            alt="Katy"
-                            src={web7}
                             className={navImageClasses}
                           />
                         </a>
