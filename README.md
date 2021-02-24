@@ -20,3 +20,14 @@ https://nodejs.org/en/
 # Build
 
 1 - To build the solution, run the command npm build
+
+# Deploy firebase
+
+1 - Install Firebase with 
+npm install -g firebase-tools
+or
+brew install firebase-cli
+
+2 - Launch the command firebase login
+
+3 - Launch the command firebase deploy
